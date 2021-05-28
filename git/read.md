@@ -32,7 +32,7 @@
 
 ### Amending
  **git commit --amend** : Redo the previous commit
-
+ <br/>
 ### Git-Ignore
 
  - **.DS_Store** : ignore file named ".DS_Store"
