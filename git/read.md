@@ -38,3 +38,11 @@
  - **.DS_Store** : ignore file named ".DS_Store"
  - **folder/** : ignore folder
  - *.log : ignore all file with extension .log
+
+
+<br/><br/>
+## 2. Git Branching
+
+ - **git branch** : view all available branches
+ -   **git branch name** : creates a branch
+-   **git switch name** : switch a branch
