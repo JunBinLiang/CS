@@ -27,3 +27,14 @@
 
  - **git add name.txt** : staging the changes
  - **git commit -m "my message"** : commit, includes message to summarize the changes
+ - **git log** : view the commit history
+ <br/>
+
+### Amending
+ **git commit --amend** : Redo the previous commit
+
+### Git-Ignore
+
+ - **.DS_Store** : ignore file named ".DS_Store"
+ - **folder/** : ignore folder
+ - *.log : ignore all file with extension .log
