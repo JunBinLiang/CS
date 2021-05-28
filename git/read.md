@@ -25,4 +25,5 @@
 
 ### Commit
 
- - 
+ - **git add name.txt** : staging the changes
+ - **git commit -m "my message"** : commit, includes message to summarize the changes
