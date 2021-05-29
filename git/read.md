@@ -39,7 +39,7 @@
 
  - **.DS_Store** : ignore file named ".DS_Store"
  - **folder/** : ignore folder
- - *.log : ignore all file with extension .log
+ - ****.log*** : ignore all file with extension .log
 
 
 <br/><br/>
@@ -51,3 +51,5 @@
 -   **git switch name** : switch a branch (Be careful with Switching with nnstaged change)
 
  <br/>
+
+### Rename/Delete
