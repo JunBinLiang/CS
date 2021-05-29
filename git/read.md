@@ -53,3 +53,6 @@
  <br/>
 
 ### Rename/Delete
+
+ - **git branch -D name** : delete the branch (force delete by using Capital D)
+ - **git branch -m newname** : rename
