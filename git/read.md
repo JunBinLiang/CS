@@ -31,7 +31,7 @@
  <br/>
 
 ### Amending
- **git commit --amend** : Redo the previous commit
+ - **git commit --amend** : Redo the previous commit
 
  <br/>
  
