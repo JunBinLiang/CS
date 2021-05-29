@@ -32,6 +32,7 @@
 
 ### Amending
  **git commit --amend** : Redo the previous commit
+
  <br/>
  
 ### Git-Ignore
@@ -44,7 +45,9 @@
 <br/><br/>
 ## 2. Git Branching
 
+### Create/Switch
  - **git branch** : view all available branches
  -   **git branch name** : creates a branch
 -   **git switch name** : switch a branch (Be careful with Switching with nnstaged change)
 
+ <br/>
