@@ -40,7 +40,6 @@
 	- CS316 : Programing Language<br/><br/>
 	- CS370 : Software Engineering<br/><br/>
 	- LC 1000 Problems (April)<br/><br/>
-	- [Spring Framework Master Class - Java Spring the Modern Way ](https://www.udemy.com/course/spring-tutorial-for-beginners/learn/lecture/7725738?start=0#overview)<br/><br/>
 	- Intern at a small Company<br/><br/>
 	- TA for data structure class
 - **2020 06 - 2020  09** :
