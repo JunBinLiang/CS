@@ -42,7 +42,7 @@
 	- CS370 : Software Engineering<br/><br/>
 	- LC 1000 Problems (April)<br/><br/>
 	- Intern at a small Company<br/><br/>
-	- TA for data structure class
+	- TA for data structure class<br/><br/>
 - **2020 06 - 2020  09** :
 	- Intern at Amazon<br/><br/>
 - **2020 09 - 2020** :
