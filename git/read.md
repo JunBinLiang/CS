@@ -1,3 +1,4 @@
+
 # Git
 ### What is Git ?
 
@@ -56,3 +57,13 @@
 
  - **git branch -D name** : delete the branch (force delete by using Capital D)
  - **git branch -m newname** : rename
+ 
+<br/><br/>
+## 3. Merging
+>Flow : 
+>git switch branch-> git merge branch
+
+<br/><br/>
+
+>With Conflicts : 
+>git switch branch-> git merge branch -> resolve conflicts -> git add -> git commit
