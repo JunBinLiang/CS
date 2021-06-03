@@ -60,6 +60,9 @@
  
 <br/><br/>
 ## 3. Merging
+
+### 1. Merging Flow
+
 >Flow : 
 >git switch branch-> git merge branch
 
