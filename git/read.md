@@ -78,4 +78,5 @@
  - **git diff** : without additional option, it lists all the changes in our working directory that are not staged for the next commit. 
  - **git diff HEAD** : lists all changes since last commit
 - **git diff stage** : lists all changes that are staged
-- **git diff option filename** : ;list change for a single file
+- **git diff option filename** : list change for a single file
+- **git diff branch1..branch2** : diff for 2 different branches
