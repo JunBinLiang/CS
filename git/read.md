@@ -86,5 +86,5 @@
 <br/><br/>
 ## 3. Stash
 **Situation** : When you make some change on current branch, you did not commit and you want to switch to other branch. <br/>
-**1**. Not allow if there is conflicts. 
-**2**. Bring those change to the branch you switch
+**1**. Not allow if there is conflicts. <br/>
+**2**. Bring those change to the branch you switch<br/>
