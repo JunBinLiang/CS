@@ -75,6 +75,6 @@
 ## 3. Git Diff
 
 ### Git Diff
-
- 1. **git diff** : without additional option, it lists all the changes in our working directory that are not staged for the next commit. <br/>
- 2. 
+ - **git diff** : without additional option, it lists all the changes in our working directory that are not staged for the next commit. 
+ - **git diff HEAD** : lists all changes since last commit
+ - **git diff stage** : lists all changes that are staged only
