@@ -88,3 +88,10 @@
 **Situation** : When you make some change on current branch, you did not commit and you want to switch to other branch. <br/>
 **1**. Not allow if there is conflicts. <br/>
 **2**. Bring those change to the branch you switch<br/>
+
+<br/><br/>
+**Stash** : Save the change without commit and get them back later
+
+<br/><br/>
+### Git Stash
+	
