@@ -80,3 +80,9 @@
 - **git diff stage** : lists all changes that are staged
 - **git diff option filename** : list change for a single file
 - **git diff branch1..branch2** : diff for 2 different branches
+
+
+
+<br/><br/>
+## 3. Stash
+**Situation** : When you make some change on current branch, you did not commit and you want to switch to other branch. (1. Not allow if there is conflicts. 2. Bring those change to the branch you switch)
