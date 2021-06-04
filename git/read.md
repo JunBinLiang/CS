@@ -99,4 +99,7 @@
  - **git stash** : save the uncommit changes
  - **git stash pop** : retrieve those changes from the stash
  - **git stash apply** : apply the change instead of pop, contents are still on the stash
+ - **git stash apply@{id}** : apply to specific stash
 - **git stash list** : view the stash
+- **git stash drop apply@{id}** : remove a specific stash
+- **git stash clear** : clear all the stash
