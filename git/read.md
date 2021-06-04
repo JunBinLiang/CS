@@ -70,3 +70,11 @@
 
 >With Conflicts : 
 >git switch branch-> git merge branch -> resolve conflicts -> git add -> git commit
+
+<br/><br/>
+## 3. Git Diff
+
+### Git Diff
+
+ 1. **git diff** : without additional option, it lists all the changes in our working directory that are not staged for the next commit. <br/>
+ 2. 
