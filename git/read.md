@@ -115,3 +115,8 @@
  - **git checkout head filename** : discard change
  - **git restore --source HEAD~1 filename** : restore the file content to few commits ago
  - **git restore --staged filename** : unstaged a file
+
+<br/><br/>
+### Reset Commit
+ - **git reset commitid** : reset the commit back, however, change is still in the repository
+ -  - **git reset --hard commitid** : total get rid, changes also gone
