@@ -119,4 +119,5 @@
 <br/><br/>
 ### Reset Commit
  - **git reset commitid** : reset the commit back, however, change is still in the repository
- -  - **git reset --hard commitid** : total get rid, changes also gone
+ -  **git reset --hard commitid** : total get rid, changes also gone
+ - **git revert commitid** : preserve the commit history
