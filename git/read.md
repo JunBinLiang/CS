@@ -103,3 +103,15 @@
 - **git stash list** : view the stash
 - **git stash drop apply@{id}** : remove a specific stash
 - **git stash clear** : clear all the stash
+
+
+
+<br/><br/>
+## 4. Go Back
+
+
+### Git CheckOut/Restore
+ - **git checkout commitid** : view the old commit
+ - **git checkout head filename** : discard change
+ - **git restore --source HEAD~1 filename** : restore the file content to few commits ago
+ - **git restore --staged filename** : unstaged a file
