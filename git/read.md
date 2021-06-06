@@ -121,3 +121,15 @@
  - **git reset commitid** : reset the commit back, however, change is still in the repository
  -  **git reset --hard commitid** : total get rid, changes also gone
  - **git revert commitid** : preserve the commit history
+
+
+
+<br/><br/>
+## 5. Remote
+
+### Remote
+
+ -  **git remote -v** : list all the remote
+  -  **git remote add name url** : add remote
+  -  **git remote rename oldname newname** : rename the remote
+  -  **git push remote branch** : rename the remote
