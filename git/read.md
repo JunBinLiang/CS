@@ -133,3 +133,10 @@
   -  **git remote add name url** : add remote
   -  **git remote rename oldname newname** : rename the remote
   -  **git push remote branch** : rename the remote
+
+<br/><br/>
+###  Fetch/Pull
+
+**Fetch** : Only update Remote Track Branch. Without integrating into the work file
+<br/>
+**Pull** : Integrate with our local (**git pull = fetch + merge**)
