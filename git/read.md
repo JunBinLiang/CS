@@ -112,7 +112,7 @@
 
 ### Git CheckOut/Restore
  - **git checkout commitid** : view the old commit
- - **git checkout head filename** : discard change
+ - **git checkout head filename** : discard change for the file
  - **git restore --source HEAD~1 filename** : restore the file content to few commits ago
  - **git restore --staged filename** : unstaged a file
 
