@@ -148,5 +148,5 @@
 
 ### Interactive Rebase
 
- - **git rebase -i HEAD~N** : rewrite the history of commit (**options** : pick, reword, drop)
+ - **git rebase -i HEAD~N** : rewrite the history of commit (**options** : pick, reword, fixup, drop)
  
