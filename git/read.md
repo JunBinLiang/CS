@@ -141,3 +141,12 @@
 **Fetch** : Only update Remote Track Branch. Without integrating into the work file
 <br/>
 **Pull** : Integrate with our local (**git pull = fetch + merge**)
+
+<br/><br/>
+
+## 6. Rewrite History - Interactive Rebase
+
+### Interactive Rebase
+
+ - **git rebase -i HEAD~N** : rewrite the history of commit
+ 
