@@ -12,9 +12,9 @@ Output: 23
 
 
 
-Horner’s method can be used to evaluate polynomial in O(n) time. 
-To understand the method, let us consider the example of 2x3 – 6x2 + 2x – 1. 
-The polynomial can be evaluated as ((2x – 6)x + 2)x – 1. 
+Horner’s method can be used to evaluate polynomial in O(n) time. <br/>
+To understand the method, let us consider the example of 2x3 – 6x2 + 2x – 1. <br/>
+The polynomial can be evaluated as ((2x – 6)x + 2)x – 1. <br/>
 
 
 ```
