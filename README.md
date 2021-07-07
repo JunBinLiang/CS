@@ -9,7 +9,7 @@ Link To CF Practice : https://github.com/JunBinLiang/CF<br/>
 
 ### 3. Programing Language
 [**Go Tour**](https://tour.golang.org/welcome/1)<br/>
-[**Easy Leetcode in Go**](https://github.com/JunBinLiang/CS/tree/main/go)<br/>
+
 
 ### 4. Leetcode
 [**Daily Challange**](https://github.com/JunBinLiang/daily-challange)<br/>
